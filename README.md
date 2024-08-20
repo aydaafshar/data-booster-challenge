@@ -1,2 +1,7 @@
 # data-booster-challenge
- result: FLAG{C0ngr4ts_Y0u_F0und_M3}
+
+result: FLAG{C0ngr4ts_Y0u_F0und_M3}
+
+# Run
+
+node ./index.js
